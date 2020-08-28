@@ -12,7 +12,7 @@ this project borrow from [Deepstream](https://github.com/NVIDIA-AI-IOT/deepstrea
 ```
 1. clone.
 2.set CMakeList.txt tensorrt path, opencv path.
-3.in main.cpp, set diffenrt cfg and weights
+3.main.cpp, set diffenrt cfg and weights
 4.set .cfg input_w and input_h,due to tensorrt upsample , input_w shuld equal input_h
 5.copy .cfg and .weights file to folder 
 6.mkdir build.  
