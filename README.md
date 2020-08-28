@@ -18,3 +18,6 @@ this project borrow from [Deepstream](https://github.com/NVIDIA-AI-IOT/deepstrea
 6.build project
 7.run ./yolo -s to build yolo engine
 7.run ./yolo -d to start detect
+```
+## set FP16 or FP32
+- FP16/FP32 can be selected by the macro `USE_FP16` 
