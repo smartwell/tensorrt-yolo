@@ -1,9 +1,10 @@
 # if this help to you,please give a star star star
 # tensorrt-yolo
 Now, just support Ubuntu, windows will be soon.
-tensorrt7 support yolov3 yolov3-tiny yolov4 yolov4-tiny and so on if you train from darknet(AB), it can support
+Tensorrt7.
+Support yolov3 yolov3-tiny yolov4 yolov4-tiny and so on if you train from darknet(AB), it can support.
 
--Don't need onnx, directly transport .cfg and .weights to Tensorrt engine
+Don't need onnx, directly transport .cfg and .weights to Tensorrt engine
 
 this project borrow from [Deepstream](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps/tree/restructure) and [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx)
 
