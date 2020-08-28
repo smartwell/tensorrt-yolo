@@ -15,7 +15,8 @@ this project borrow from [Deepstream](https://github.com/NVIDIA-AI-IOT/deepstrea
 3.in main.cpp, set diffenrt cfg and weights
 4.set .cfg input_w and input_h,due to tensorrt upsample , input_w shuld equal input_h
 5.copy .cfg and .weights file to folder 
-6.build project
+6.mkdir build.  
+7.cd build && cmake .. && make 
 7.run ./yolo -s to build yolo engine
 7.run ./yolo -d to start detect
 ```
