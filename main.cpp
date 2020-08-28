@@ -160,6 +160,11 @@ int main(int argc,char* argv[])
             file.read(trtModelStream, size);
             file.close();
         }
+    }else {
+        std::cerr << "arguments not right!" << std::endl;
+        std::cerr << "./yolov3 -s  // serialize model to plan file" << std::endl;
+        std::cerr << "./yolov3 -d  // deserialize plan file and run inference" << std::endl;
+        return -1;
     }
 
     IRuntime* runtime = createInferRuntime(gLogger);
