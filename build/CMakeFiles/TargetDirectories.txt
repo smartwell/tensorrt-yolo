@@ -1,4 +1,0 @@
-/home/wh/project/CUDA_learn/test_yololayer/deepstream_yolo/git_yolo/tensorrt-yolo/build/CMakeFiles/rebuild_cache.dir
-/home/wh/project/CUDA_learn/test_yololayer/deepstream_yolo/git_yolo/tensorrt-yolo/build/CMakeFiles/edit_cache.dir
-/home/wh/project/CUDA_learn/test_yololayer/deepstream_yolo/git_yolo/tensorrt-yolo/build/CMakeFiles/yolo.dir
-/home/wh/project/CUDA_learn/test_yololayer/deepstream_yolo/git_yolo/tensorrt-yolo/build/CMakeFiles/yololayer.dir

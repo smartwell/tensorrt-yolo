@@ -230,8 +230,6 @@ int main(int argc,char* argv[])
 
         std::vector<Detection> res;
         nms(res, prob);
-        auto end = std::chrono::system_clock::now();
-        std::cout << std::chrono::duration_cast<std::chrono::milliseconds>(end - start).count() << "ms" << std::endl;
 
         for (size_t j = 0; j < res.size(); j++) {
             float *p = (float*)&res[j];
