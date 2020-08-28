@@ -2,7 +2,9 @@
 # tensorrt7-yolo
 Now, just support Ubuntu, windows will be soon.
 
-Support yolov3 yolov3-tiny yolov4 yolov4-tiny and so on if you train from darknet(AB), it can support.
+Support yolov3 yolov3-tiny yolov4 yolov4-tiny and so on 
+
+if you train from darknet(AB), it usually can support.
 
 Don't need onnx, directly transport .cfg and .weights to Tensorrt engine
 
