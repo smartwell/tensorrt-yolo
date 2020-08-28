@@ -2,7 +2,7 @@
 # tensorrt7-yolo
 Now, just support Ubuntu, windows will be soon.
 
-Support yolov3 yolov3-tiny yolov4 yolov4-tiny and so on 
+Support yolov3 yolov3-tiny yolov4 yolov4-tiny，even your custom cfg networ 
 
 if you train from darknet(AB), it usually can support.
 
