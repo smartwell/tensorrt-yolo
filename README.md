@@ -1,4 +1,4 @@
-# if this help to you,please give a star star star
+# if this help to you,please star star star
 # tensorrt7-yolo
 Now, just support Ubuntu, windows will be soon.
 
